@@ -1,0 +1,11 @@
+{
+	"memoryLimitBytes": 1024,
+	"delays": 
+	{		
+		"read":1, 
+		"write":1, 
+		"move":1, 
+		"rewind":1
+	},
+	"tmpDir":"tmp"
+}
